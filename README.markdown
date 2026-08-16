@@ -1,3 +1,9 @@
+> **Archived upstream fork/reference — do not use for new work.**  
+> **Upstream:** [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)  
+> **License/provenance:** Preserved upstream history and existing license/provenance notices (MIT).  
+> **Current code, releases, issues, and security:** Use upstream.  
+> **Maintained pc-style delta:** None (apart from this archive notice).
+
 # [Jekyll](https://jekyllrb.com/)
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
