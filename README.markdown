@@ -1,8 +1,8 @@
-> **Archived upstream fork/reference — do not use for new work.**  
+> **Archive pending — do not use this repository for new work.** This upstream fork/reference is scheduled for archive once repository administration permission is available.  
 > **Upstream:** [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)  
 > **License/provenance:** Preserved upstream history and existing license/provenance notices (MIT).  
 > **Current code, releases, issues, and security:** Use upstream.  
-> **Maintained pc-style delta:** None (apart from this archive notice).
+> **Maintained pc-style delta:** None (apart from repository-status notices).
 
 # [Jekyll](https://jekyllrb.com/)
 
